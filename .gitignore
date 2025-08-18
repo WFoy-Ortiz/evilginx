@@ -3,3 +3,4 @@ build/
 private/
 phishlets/m365.yaml
 m365.yaml
+redirectors/
